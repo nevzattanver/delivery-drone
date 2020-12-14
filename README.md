@@ -6,3 +6,10 @@ Bu kodlar, Gazi Üniversitesi Mühendislik Fakültesi Elektrik-Elektronik Mühen
 otopilot kartı ile uyumlu DroneKit kütüphaneleri kullanarak yazılmış, Pixhawk otopilot kartına göre özelleştirilmiştir. 
 
 Kodlar hakkında sorusu olanlar için iletişim adresi : nevzattanver@gmail.com
+
+Hava Aracının Fotoğrafı :
+
+
+![Front.jpeg](https://github.com/jetiks/delivery-drone/blob/master/Front.jpeg)
+
+
